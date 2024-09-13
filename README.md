@@ -12,5 +12,7 @@ This project involves a comprehensive Excel-based analysis to explore the comple
 
 # Utilizing Multiple Linear Regression to Optimize Property Valuation(real_estate_price)
 This project focuses on utilizing a data-driven approach to property valuation at RealEstateBud in Manila. The primary goal is to create a robust valuation model utilizing Multiple Linear Regression, incorporating a number of factors. This model aims to significantly enhance the accuracy and transparency of property valuations, bridging the gap between estimated and actual property values.
-Tech Stack
-Microsoft Excel will used for Descriptive, Diagnostics and Predictive Analytics.
+# Tech Stack
+Microsoft Excel was used for 
+# Descriptive, 
+# Diagnostics and Predictive Analytics.
